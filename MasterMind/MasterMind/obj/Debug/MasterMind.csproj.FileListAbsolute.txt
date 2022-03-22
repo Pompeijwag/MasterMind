@@ -1,0 +1,10 @@
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+G:\Min enhet\Programmering C#\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
